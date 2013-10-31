@@ -1,1 +1,4 @@
 syslog-ng
+nbproject/
+composer.lock
+vendor/

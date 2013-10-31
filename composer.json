@@ -1,0 +1,11 @@
+{
+    "require": {
+        "romikring/rabox" : "dev-master"
+    },
+    "repositories": [
+        {
+            "type" : "vcs",
+            "url" : "git@github.com:romikring/rabox.git"
+        }
+    ]
+}
